@@ -1,8 +1,11 @@
 # Task Tracker CLI
 
-A simple Command Line Interface (CLI) application to manage tasks efficiently. This project allows users to add, update, delete, and track the status of their tasks, storing all data in a JSON file. 
-You can find the project URL here: https://github.com/sunilbastola/task_tracker_project_python/blob/main/readme.md
+A simple Command Line Interface (CLI) application to manage tasks efficiently. This project allows users to add, update, delete, and track the status of their tasks, storing all data in a JSON file.
 
+You can find the project URL here: 
+https://github.com/sunilbastola/task_tracker_project_python/blob/main/readme.md
+
+Link to the original Project: https://roadmap.sh/projects/task-tracker
 
 ## Features
 - Add a new task
